@@ -9,6 +9,7 @@ public class MockShowTicTacToe implements ShowTicTacToe {
 	@Override
 	public void showState(String[][] board) {
 		System.out.println("toto");
+		System.out.println("toto");
 
 	}
 
