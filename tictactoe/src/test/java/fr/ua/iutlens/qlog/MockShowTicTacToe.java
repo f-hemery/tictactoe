@@ -3,7 +3,7 @@ package fr.ua.iutlens.qlog;
 public class MockShowTicTacToe implements ShowTicTacToe {
 
 	public MockShowTicTacToe() {
-		// TODO Auto-generated constructor stub
+		System.out.println("toto");
 	}
 
 	@Override
