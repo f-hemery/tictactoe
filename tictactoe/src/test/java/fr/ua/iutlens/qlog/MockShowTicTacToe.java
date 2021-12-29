@@ -8,7 +8,7 @@ public class MockShowTicTacToe implements ShowTicTacToe {
 
 	@Override
 	public void showState(String[][] board) {
-		// TODO Auto-generated method stub
+		System.out.println("toto");
 
 	}
 
